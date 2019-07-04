@@ -52,28 +52,28 @@ Please note that there is no 100% way to find the root.
 
 Checkout the following details very clearly
 
-★ Root Result 
-★ Details root check
-★ Device name
-★ Device Model
-★ OS version
-★ Root Management Apps
-★ Potentially Dangerous Apps
-★ Test Keys
-★ BusyBox Binary
-★ SuperUser Binary
-★ SuperUser Exists
-★ Read/Write Paths
-★ Dangerous Props
-★ Root Native
-★ Root Cloaking Apps
+* Root Result 
+* Details root check
+* Device name
+* Device Model
+* OS version
+* Root Management Apps
+* Potentially Dangerous Apps
+* Test Keys
+* BusyBox Binary
+* SuperUser Binary
+* SuperUser Exists
+* Read/Write Paths
+* Dangerous Props
+* Root Native
+* Root Cloaking Apps
 
-★ Also check most frequent questions about the root
-★ Importance of root
-★ Advantages and Disadvantages of root and so on
-★ Detail descriptions about all the root terms
-★ Detailed and Easy Design
-★ Advanced UI 
+* Also check most frequent questions about the root
+* Importance of root
+* Advantages and Disadvantages of root and so on
+* Detail descriptions about all the root terms
+* Detailed and Easy Design
+* Advanced UI 
 
 and more..
 
