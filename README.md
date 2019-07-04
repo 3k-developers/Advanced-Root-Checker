@@ -6,13 +6,13 @@ Advanced Root Checker helps you to check whether the device is rooted or not. Th
 
 ## Screenshots Ver. 1.7.0
 
-<img src="https://user-images.githubusercontent.com/18279724/60650146-2d44a300-9e61-11e9-880d-56d526c449ca.jpg" align="left" height="300" width="180" >
+<img src="https://user-images.githubusercontent.com/18279724/60652145-3e8fae80-9e65-11e9-97df-93ee3a56032d.png" align="left" height="300" width="180" >
 
-<img src="https://user-images.githubusercontent.com/18279724/60650148-2ddd3980-9e61-11e9-933c-bf4d41cdc62a.jpg" align="left" height="300" width="180" >
+<img src="https://user-images.githubusercontent.com/18279724/60652146-3f284500-9e65-11e9-8e07-fcb61825f876.png" align="left" height="300" width="180" >
 
-<img src="https://user-images.githubusercontent.com/18279724/60650151-2ddd3980-9e61-11e9-9197-686ca84f0f91.jpg" align="left" height="300" width="180" >
+<img src="https://user-images.githubusercontent.com/18279724/60652147-3f284500-9e65-11e9-816d-5e67e7947a0c.png" align="left" height="300" width="180" >
 
-<img src="https://user-images.githubusercontent.com/18279724/60650152-2e75d000-9e61-11e9-9910-6a91d9f797e2.jpg" align="left" height="300" width="180" >
+<img src="https://user-images.githubusercontent.com/18279724/60652148-3f284500-9e65-11e9-98ab-db2945e2f03e.png" align="left" height="300" width="180" >
 <br/>
 <br/>
 <br/>
@@ -28,7 +28,8 @@ Advanced Root Checker helps you to check whether the device is rooted or not. Th
 <br/>
 <br/>
 
-<img src="https://user-images.githubusercontent.com/18279724/60650154-2e75d000-9e61-11e9-9d4a-bb70bd4cb868.jpg" align="left" height="300" width="180" >
+<img src="https://user-images.githubusercontent.com/18279724/60652149-3fc0db80-9e65-11e9-8233-054cdffe1796.png" align="left" height="300" width="180" >
+<img src="https://user-images.githubusercontent.com/18279724/60652151-3fc0db80-9e65-11e9-98a7-87505b18f1ab.png" align="left" height="300" width="180" >
 <br/>
 <br/>
 <br/>
